@@ -1,7 +1,7 @@
 import argparse
 import collections
 import numpy as np
-import utils
+import experiments.utils
 from newsroom.analyze.rouge import ROUGE_L, ROUGE_N
 
 
